@@ -5,7 +5,6 @@ This is a basic E-commerce system implemented in Python using Object-Oriented Pr
 - Creating products
 - Managing a customer
 - Adding products to a cart
-- Placing an order
 
 
  📚 OOP Concepts Used
